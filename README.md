@@ -1,3 +1,3 @@
 I’m Andrew Igbeinkutu.
-I’m an aspiring web developer with a good knowledge and use of front-end frameworks like HTML, CSS, Bootstrap and Javascript.
-I’m currently learning backend development - working with Node.js and NoSQL databases like MongoDB and Redis.
+I’m an Fullstack web developer with a good knowledge and use of front-end frameworks like HTML, CSS, Javascript and React.
+I work with Node.js for backend development and NoSQL databases such as MongoDB and Redis.
